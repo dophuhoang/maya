@@ -5,4 +5,5 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="layout_vertical_margin">8dp</dimen>
     <dimen name="layout_horizontal_margin">8dp</dimen>
+    <dimen name="layout_bottom_padding">48dp</dimen>
 </resources>
