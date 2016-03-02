@@ -2,6 +2,7 @@
     <string name="app_name">Vua Maya</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="btn_play">Chơi</string>
+    <string name="btn_ok">Ok</string>
     <string name="txt_summary">
         Maya là trò chơi xí ngầu vui nhộn cần đến một ít may mắn và khả năng xạo sự. Cần ít nhất 2
         người chơi. Mỗi người có 6 mạng. Người chơi phải lắc được cặp số cao hơn người trước. Nếu
