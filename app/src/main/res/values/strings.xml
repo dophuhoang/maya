@@ -2,4 +2,54 @@
     <string name="app_name">Vua Maya</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="btn_play">Chơi</string>
+    <string name="txt_summary">
+        Maya là trò chơi xí ngầu vui nhộn cần đến một ít may mắn và khả năng xạo sự. Cần ít nhất 2
+        người chơi. Mỗi người có 6 mạng. Người chơi phải lắc được cặp số cao hơn người trước. Nếu
+        không thì thua 1 mạng (<font color='green'>MAYA</font> là cặp số cao nhất).
+        Hoặc bạn có thể xạo một chút. Xạo càng giỏi thì càng có cơ hội thắng.
+        Người còn mạng cuối cùng sẽ thắng và trở thành Vua MAYA.</string>
+    <string name="txt_description_01">
+        <font color='orange'>2 + 1 = </font><font color='green'>Maya</font>\n
+        <font color='orange'>6 + 6 = </font>Đôi 6\n
+        <font color='orange'>5 + 5 = </font>Đôi 5\n
+        <font color='orange'>4 + 4 = </font>Đôi 4\n
+        <font color='orange'>3 + 3 = </font>Đôi 3\n
+        <font color='orange'>2 + 2 = </font>Đôi 2\n
+        <font color='orange'>1 + 1 = </font>Đôi 1\n
+        <font color='orange'>6 + 5 = </font>65\n
+        <font color='orange'>6 + 4 = </font>64\n
+        <font color='orange'>6 + 3 = </font>63\n
+        <font color='orange'>6 + 2 = </font>62\n
+        <font color='orange'>6 + 1 = </font>61\n
+        <font color='orange'>5 + 4 = </font>54\n
+        <font color='orange'>5 + 3 = </font>53\n
+        <font color='orange'>5 + 2 = </font>52\n
+        <font color='orange'>5 + 1 = </font>51\n
+        <font color='orange'>4 + 3 = </font>43\n
+        <font color='orange'>4 + 2 = </font>42\n
+        <font color='orange'>4 + 1 = </font>41\n
+        <font color='orange'>3 + 2 = </font>32\n
+        <font color='orange'>3 + 1 = </font>31\n
+    </string>
+    <string name="txt_description_02">
+        <font color='green'>Người chơi thứ 1</font>\n
+        Lắc xí ngầu, kín đáo và không cho ai thấy.\n
+        <font color='yellow'>Lựa chọn 1</font>: Hô đúng cặp số đã lắc.\n
+        <font color='yellow'>Lựa chọn 2</font>: Xạo một chút và hô cặp số cao hơn hoặc thấp hơn. Đóng
+        cốc lại và đưa cho người tiếp theo.\n\n
+        <font color='green'>Những người chơi tiếp theo</font>\n
+        <font color='yellow'>Lựa chọn 1</font>: Lắc để có được cặp số cao hơn. Nếu chỉ lắc được bằng
+        hoặc thấp hơn thì bạn nên xạo và hô cặp số cao hơn vì bạn sẽ có cơ hội khỏi thua 1 mạng. Sau
+        đó đưa cho người tiếp theo.\n
+        <font color='yellow'>Lựa chọn 2</font>: Bấm nút &#34;Xạo&#34; và cốc sẽ mở. Nếu sai cặp số đã hô,
+        người nói xạo sẽ thua 1 mạng và người mở cốc sẽ bắt đầu vòng mới. Nếu người trước đã hô đúng,
+        người mở cốc thua 1 mạng. Sau đó người tiếp theo sẽ lắc để bắt đầu vòng mới.\n\n
+        Nếu một ai đó hô &#34;<font color='green'>Maya</font>&#34; thì người tiếp theo có 2 lựa chọn:
+        <font color='yellow'>1.</font> Tin người đó và chấp nhận thua 1 mạng. Và lắc cốc chơi tiếp.\n
+        <font color='yellow'>2.</font> Bấm nút "Xạo" và cốc sẽ mở. Nếu sai cặp số đã hô, người nói xạo
+        sẽ thua 1 mạng và người mở cốc sẽ bắt đầu vòng mới. Nếu người trước đã hô đúng, người mở cốc
+        thua 2 mạng.\n
+        Sau đó người tiếp theo sẽ lắc để bắt đầu vòng mới.
+    </string>
+    <string name="txt_maya">"Maya"</string>
 </resources>
